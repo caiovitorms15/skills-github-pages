@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Caio Vitor's blog
 ---
+
+ # Just testing this resource
